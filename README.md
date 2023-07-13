@@ -1,6 +1,6 @@
 # HTML and CSS Task #3 - Effects
 
-Task created using:
+Task done using:
 
 - HTML
 - CSS
